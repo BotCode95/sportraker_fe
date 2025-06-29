@@ -1,0 +1,6 @@
+export { Login } from './Login'
+export { Register } from './Register'
+export { Profile } from './Profile'
+export { Home } from './Home'
+export { SearchPlayers } from './SearchPlayers'
+export { ProfileId } from './ProfileId'

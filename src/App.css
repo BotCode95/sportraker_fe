@@ -1,0 +1,15 @@
+a{
+  text-decoration: none;
+  color: inherit;
+
+}
+
+a:hover{
+  color: #ffb800;
+  background-color: none;
+}
+
+button:hover{
+  color: #646cff;
+  background-color: #222211;
+}
